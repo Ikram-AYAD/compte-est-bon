@@ -17,6 +17,8 @@ Plutôt qu'une simple recherche aléatoire, le programme utilise une **IA symbol
 * **Complexité :** Gestion d'un grand espace d'états (plusieurs milliers de combinaisons possibles) avec un temps de réponse instantané.
 
 ## 🚀 Installation et Utilisation
-1. Compiler le programme :
-   ```bash
-   gcc main.c -o solver
+1. Compiler le code source
+gcc main.c -o arithmetic_solver
+
+2. Lancer le programme
+./arithmetic_solver
